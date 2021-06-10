@@ -8,7 +8,7 @@ Algoritmo edad_100personas
 		Leer edad
 		Si edad>=25 Entonces
 			sumaMayores=sumaMayores+edad
-			mayores25=mayores2525+1
+			mayores25=mayores25+1
 		SiNo
 			sumamenores=sumamenores+edad
 			menores25=menores25+1
